@@ -2,4 +2,5 @@ One sunny day I accidentally saw a clip of a television interview. Conversation 
 
 Just realized that the person being interviewed was Jackie Can, a martial arts expert.
 
-So, by those quotes I have a hobby of traveling while bringing my mind to solving coding problems and what's surprising is that it works and really fun!.
+So, by those quotes I have a hobby of traveling while bringing my mind to solving coding problems and what's surprising is that 
+it works well and really fun!.
